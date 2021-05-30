@@ -10,4 +10,4 @@ This project Display Tokyo Tower using Google Map Javascript API. Also, speech b
 
 # Reference
 [Adding a Google Map with a Marker to Your Website]
-https://developers.google.com/maps/documentation/javascript/adding-a-google-map#maps_add_map-html
+(https://developers.google.com/maps/documentation/javascript/adding-a-google-map#maps_add_map-html)
